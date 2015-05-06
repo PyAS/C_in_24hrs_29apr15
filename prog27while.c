@@ -3,8 +3,8 @@
 # include <stdio.h>
 
 main() {
-    int i;
-    while(i <= 98) {
+    int i=1;
+    while(i < 98) {
         printf("The numeric value %d corresponds to the character %c.\n", i, i);
         i++;
     }
