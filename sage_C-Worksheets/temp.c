@@ -1,4 +1,4 @@
-/* prog38or.c: Using OR operator. */
+/* prog39not.c: Using Logical Negation operator. */
 
 # include <stdio.h>
 
